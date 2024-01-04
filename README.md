@@ -1,4 +1,4 @@
-# TransFuse
+# ADF-Net
 This repo holds the code of ADF-Net
 
 ## Requirements
